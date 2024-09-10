@@ -1,0 +1,8 @@
+#10 year career goal
+1. Over the next 10 years, I envision a progressive career that bridges my extensive experience as a Business Analyst with my growing expertise in AWS Cloud Engineering. My immediate focus is to gain proficiency in AWS cloud technologies, mastering cloud infrastructure, automation, and DevOps principles. I plan to leverage my background in agile methodologies, business analysis, and data analysis to seamlessly transition into cloud engineering roles, where I can contribute to designing and implementing scalable, secure, and efficient cloud solutions.
+
+2. In the medium term (3-5 years), I aim to specialize as an AWS Cloud Engineer, focusing on building cloud-based solutions that address complex business needs. My goal is to integrate my knowledge of business processes and product management with technical skills in cloud architecture, enabling me to develop solutions that optimize operational efficiency and drive business innovation.
+
+3. Within 7-10 years, I aspire to move into a leadership role, such as Cloud Solutions Architect or Technical Product Manager, where I can use my combined expertise in business analysis, cloud engineering, and project management to lead digital transformation initiatives. I see myself leading teams that design and implement cutting-edge cloud solutions, influencing strategic decision-making, and delivering value to both the business and its stakeholders.
+
+4. Throughout this journey, continuous learning will remain central to my growth, ensuring I stay at the forefront of technological advancements and maintain the ability to adapt to the evolving IT landscape.
